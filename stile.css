@@ -1,0 +1,17 @@
+body {
+    background-color: darkolivegreen;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+main h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blanchedalmond;
+    font size: 10vw;
+    letter-spacing: -2px;
+}
